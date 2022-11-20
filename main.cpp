@@ -6,13 +6,19 @@ int opzione=0;
 cin>>a>>b>>opzione;
 switch(opzione){
       case0:
-       cout<<(a*b)/2<<endl;     
+            float area;
+            area=(a*b)/2
+       cout<<area<<endl;     
       break;
       case1:
-    cout<<a*a<<endl;
+            float area;
+            area=a*a
+    cout<<area<<endl;
          break;
       case2:
-  cout<<a*b<<endl;
+            float area;
+            area=a*b
+  cout<<area<<endl;
       break;
    default:
       cout<<"opzione non valida"<<endl;
