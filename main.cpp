@@ -8,7 +8,7 @@ cin>>a>>b>>opzione;
 switch(opzione){
       case0:
             
-            area=(a*b)/2
+       area=(a*b)/2
        cout<<area<<endl;     
       break;
       case1:
