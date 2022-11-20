@@ -18,7 +18,7 @@ switch(opzione){
          break;
       case2:
             
-            area=a*b
+            area=a*b;
   cout<<area<<endl;
       break;
    default:
