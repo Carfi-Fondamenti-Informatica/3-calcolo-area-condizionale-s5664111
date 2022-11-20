@@ -6,7 +6,6 @@ int opzione=0;
 cin>>a>>b>>opzione;
 switch(opzione){
       case0:
-      (a*b)/2;
        cout<<(a*b)/2<<endl;     
       break;
       case1:
