@@ -10,7 +10,7 @@ switch(opzione){
       area=(a*b)/2;
       breack;
       case1:
-      area=pow(a,2)
+      area=a*a
          breack;
       case2:
       area=a*b;
