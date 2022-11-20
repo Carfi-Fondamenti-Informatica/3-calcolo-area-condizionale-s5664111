@@ -8,13 +8,13 @@ cin>>a>>b>>opzione;
 switch(opzione){
       case0:
       area=(a*b)/2;
-      breack;
+      break;
       case1:
       area=a*a
-         breack;
+         break;
       case2:
       area=a*b;
-      breack;
+      break;
    default:
       cout<<"opzione non valida"<<endl;
 }
