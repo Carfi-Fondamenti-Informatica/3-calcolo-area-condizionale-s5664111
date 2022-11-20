@@ -16,7 +16,7 @@ switch(opzione){
        area=a*b;
       break;
    default:
-      cout<<"opzione non valida"<<endl;
+      cout<<"“opzione non valida"<<endl;
 }
  cout<<area<<endl;
    return 0;
